@@ -1,3 +1,5 @@
+#!/usr/local/bin/python3.7
+
 def get_tipo_dia(dia):
     tipo_dias = {
         1: 'Fim de semana',
